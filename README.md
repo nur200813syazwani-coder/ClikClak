@@ -1,0 +1,2 @@
+# ClikClak
+ClikClak Inventory Management
